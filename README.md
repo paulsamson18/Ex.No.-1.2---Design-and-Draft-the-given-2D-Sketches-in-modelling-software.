@@ -36,7 +36,7 @@
  ![image](https://user-images.githubusercontent.com/113594316/198233336-dd9f5c19-481b-486a-928a-99c32a732f89.png)
 
  ## OUTPUT
- 
+ ![1 2  git](https://github.com/paulsamson18/Ex.No.-1.2---Design-and-Draft-the-given-2D-Sketches-in-modelling-software./assets/119405794/b53926c5-0183-4a58-9829-1820346e2043)
  
  ## RESULT
  Thus the given sketch is drawn and drafted using fusion 360 tool.
